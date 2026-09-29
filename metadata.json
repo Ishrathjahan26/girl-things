@@ -1,0 +1,7 @@
+{
+  "name": "Girl Things",
+  "description": "A modern, elegant e-commerce destination for girls to discover curated fashion, beauty, accessories, and everyday essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
